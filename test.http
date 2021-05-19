@@ -1,0 +1,35 @@
+GET http://localhost:8084/api/all
+
+### 
+
+POST http://localhost:8084/api/addTrainingCenter
+Content-Type: application/json
+
+{
+    "centerName":"Naresh IT",
+    "centerCode":"abc-xyz12345",
+    "capacity":500,
+    "coursesOffered":[
+        "Java",
+        "C++",
+        "React Js",
+        "Express Js",
+        "Ionic",
+        "React Native",
+        "Flutter",
+        "ASP.NET"
+    ],
+    "address":
+    {
+        "detailedAddress":"Ameerpet",
+        "city":"Hyderabad",
+        "state":"TG",
+        "pincode":500023
+    },
+    "contactEmail":"nareshit@gmai.com",
+    "contactPhone":"4502137896"
+}
+
+//Note:
+//Contact Phone: It should be exactly length =10
+//Contact Email : It should be in email pattern which has been verified using regex
