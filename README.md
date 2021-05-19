@@ -26,4 +26,4 @@ In order to test API you can use [PostMan](https://www.postman.com/ 'Postman'), 
 Make Sure to change the username and password in [application.properties](https://github.com/sid2425/Backend_Liv2Train_Siddartha/blob/main/src/main/resources/application.properties 'API') in order to connect to Oracle DB.
 
 ## API testing: 
-⋅⋅⋅[test.http](https://github.com/sid2425/Backend_Liv2Train_Siddartha/blob/main/test.http 'test.http') can guide you. 
+** [test.http](https://github.com/sid2425/Backend_Liv2Train_Siddartha/blob/main/test.http 'test.http') can guide you. **
