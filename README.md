@@ -1,8 +1,8 @@
 # Backend_Liv2Train_Siddartha 
 
 # Prerequisite:
-### Java 11
-### Maven 3.0+
+### - Java 11
+### - Maven 3.0+
 
 # Setup 
 ```
