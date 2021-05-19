@@ -30,6 +30,3 @@ Content-Type: application/json
     "contactPhone":"4502137896"
 }
 
-//Note:
-//Contact Phone: It should be exactly length =10
-//Contact Email : It should be in email pattern which has been verified using regex
