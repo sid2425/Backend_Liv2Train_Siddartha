@@ -27,3 +27,12 @@ Make Sure to change the username and password in [application.properties](https:
 
 ## API testing: 
 **[test.http](https://github.com/sid2425/Backend_Liv2Train_Siddartha/blob/main/test.http 'test.http') can guide you.**
+
+### Todo's 
+- [x] First API
+- [x] Validations for mandatory fields through constraints annotations in jpa 
+- [x] API accepts data in .json format  
+- [x] An appropriate error message using Spring ExceptionHandler (com.example.rest.exception)  
+- [x] Second API
+- [x] Use of ORM (object relation mapper)
+- [x] Project Structure based on J2EE architecture 
