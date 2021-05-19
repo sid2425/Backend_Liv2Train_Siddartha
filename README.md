@@ -17,7 +17,7 @@ cd target
 java -jar target/Backend_Liv2Train_Siddartha-0.0.1-SNAPSHOT.jar
 
 Using IDE - Eclipse, IntelliJ
-### Import Project directly and run the application 
+Import Project directly and run the application 
 ```
 
 In order to test API you can use [PostMan](https://www.postman.com/ 'Postman'), [Insomnia](https://insomnia.rest/ 'Insomnia') or an Extension in VS code Like 
